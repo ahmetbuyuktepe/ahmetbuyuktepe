@@ -10,6 +10,8 @@ I enjoy working close to the system — building **reliable backend software**, 
 
 ## 💼 Experience
 
+**Software Development Intern — Advanced Micro Devices** 
+
 **Software Development Intern — Trend Micro** 🛡️  
 Worked on backend and platform tooling around data ingestion, automation, and developer productivity. Built Python data pipelines, contributed to an AI-assisted ticket resolution system using vector search + LLM context, and worked with Kubernetes, Helm, and cloud infrastructure. Also dug into data integrity issues across distributed systems and documented long-term fixes.
 
