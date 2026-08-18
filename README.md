@@ -43,4 +43,4 @@ A multiplayer text-based card game built in modern C++. Includes scoring, turn m
 
 📧 **Email:** ahmetebuyuktepe@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/ahmetbuyuktepe  
-🧑‍💻 **GitHub:** https://github.com/aebuy (you're here 👋)
+🧑‍💻 **GitHub:** https://github.com/ahmetbuyuktepe (you're here 👋)
